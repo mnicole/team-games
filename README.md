@@ -3,6 +3,7 @@
 - [Skribbl](https://skribbl.io) 🏆 - guess what someone is drawing
 - [Drawbattle](https://drawbattle.io) - drawing but competing in teams
 - [Gartic Phone](https://garticphone.com) - telephone game with drawing
+- [Code Names](https://codenames.game) - word guessing game
 - [Keep Talking and Nobody Explodes](https://keeptalkinggame.com) 💰 - try to defuse a bomb together by reading the manual and communicating effectively
 - [Coding escape room](https://escape.codingame.com)❓ - escape room where you solve problems by coding
 - [Chameleon](https://the-chameleon.herokuapp.com)❓ - social bluffing game
