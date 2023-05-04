@@ -13,6 +13,7 @@
 - [geoguessr](https://www.geoguessr.com) - get dropped on a map and try to guess where you are. has limited free version
 - [Beat the Bomb](https://beatthebomb.com/virtual) 💰 - split into 2 teams and complete collaborative games trying to beat the other team
 - [Reason](https://www.tryreason.com/teambuilding) 💰❓ - virtual escape rooms
+- [Balderdash](https://www.balderdash.app) ❓ - make up a definition of a word and try to get people to guess yours while you try to guess the real definition
 - [Hunt a Killer](https://www.huntakiller.com) 💰 - provided evidence, try to solve a murder. this isn't virtual, but i made it virtual by taking photos of the evidence and sending it to my team
 
 Key:
