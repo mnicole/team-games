@@ -9,6 +9,7 @@
 - [Chameleon](https://the-chameleon.herokuapp.com)❓ - social bluffing game
 - [Squabble](https://squabble.me)❓ - competitive wordle
 - [Wavelength](https://www.wavelength.zone) 🏆 📲 get 2 opposite words that make up a spectrum and a point on the spectrum. make up a clue to get your team to guess where to put the point. has limited free version.
+- [Top Four](https://topfour.io) ❓ - rank 4 things and guess how others ranked them
 - [Don't Starve Together](https://store.steampowered.com/app/322330/Dont_Starve_Together) 💰 📲 try to stay alive together
 - [geoguessr](https://www.geoguessr.com) - get dropped on a map and try to guess where you are. has limited free version
 - [Beat the Bomb](https://beatthebomb.com/virtual) 💰 - split into 2 teams and complete collaborative games trying to beat the other team
